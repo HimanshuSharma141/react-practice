@@ -14,7 +14,7 @@ function App() {
   let newArr = [1,2,3,4]
   return (
     <>
-      <h1 className='bg-green-300 text-black p-4 rounded-lg'>Tailwind test</h1>
+      <h1 className='bg-green-500 text-black p-4 rounded-lg'>Tailwind test</h1>
       <Card username="heybuddy"  btnText="click me"/>
       <Card username = "hello" btnText="visit me"/>
       
